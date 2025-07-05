@@ -4,6 +4,12 @@ A simple, elegant, and lightweight Flutter app to check live currency exchange r
 
 ---
 
+## 🖥️ Screenshots
+
+![Screenshot](https://github.com/VrushankBardolia/Currency-EXCH/blob/main/image/banner.png)
+
+---
+
 ## 🚀 Features
 
 - **Live Exchange Rates:** Get real-time rates for various world currencies.
@@ -11,27 +17,6 @@ A simple, elegant, and lightweight Flutter app to check live currency exchange r
 - **Modern Flutter UI:** Material design, custom fonts, and a beautiful color scheme.
 - **About & Contact:** Built-in info panel with version, developer, and quick access to email and social profiles.
 - **Cross-Platform:** Works on both Android and iOS.
-
----
-
-## 🖥️ Screenshots
-
-<!-- Add screenshots of the app here (e.g., home screen, conversion screen, about modal) -->
-
----
-
-## 🏗️ Project Structure
-
-```
-lib/
-├── main.dart                # App entry point, sets up theme and home screen
-├── screens/
-│   ├── home.dart            # Main menu with navigation and about modal
-│   ├── baseRate.dart        # (Expected) Shows base currency rates
-│   └── rateConvertion.dart  # (Expected) Currency conversion screen
-├── components/
-│   └── homeTile.dart        # (Expected) UI component for home screen tiles
-```
 
 ---
 
@@ -64,19 +49,6 @@ lib/
    flutter run
    ```
    _Make sure you have a connected device or emulator._
-
----
-
-## ℹ️ About & Contact
-
-Access the in-app About panel for:
-
-- **Version:** 1.0.0
-- **Developer:** Vrushank Bardolia
-- **Email:** [vrushank1793@gmail.com](mailto:vrushank1793@gmail.com)
-- **X (Twitter):** [@Vrushank_Tweets](https://x.com/Vrushank_Tweets)
-- **LinkedIn:** [Vrushank Bardolia](https://www.linkedin.com/in/vrushank-bardolia)
-- **GitHub:** [github.com/VrushankBardolia](https://github.com/VrushankBardolia)
 
 ---
 
